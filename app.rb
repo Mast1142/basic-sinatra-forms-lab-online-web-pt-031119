@@ -6,6 +6,6 @@ class App < Sinatra::Base
   end
 
   post '/team' do
-    
+
   end
 end
